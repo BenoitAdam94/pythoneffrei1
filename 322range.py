@@ -7,7 +7,6 @@ print(interval.step)
 print(interval.stop)
 """
 
-
 # Si vous souhaitez récupérer cet objet 
 # range sous la forme d'une liste, il suffit de le convertir avec la fonction list :
 
